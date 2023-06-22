@@ -1,0 +1,62 @@
+<html>
+
+	<head>
+		
+		vocabulary
+
+	</head>	
+		
+
+		<h1>passage-1</h1>	
+   		
+		<hr>	
+		
+		<br>		
+
+		<p>the printing press has made knowledge available to the vast multitude of people-pray, what kind of knowledge is it?</p>
+		<br><br><br>	
+
+
+		<h2>passage-2</h2>
+		
+		<hr>	
+				
+		<br>	
+		
+		<p>our aweareness of time has reached such a pitch of intensity that wa suffer acutely whenever our travels task us into some corener of the world where pepole are not interested in minutes and second.</p>
+		<br><br><br>
+
+
+		<H3>passage-3</h3>	
+
+		<hr>	
+	
+		<br>
+		
+		<p>in the past 50years docters acoss the world have accepted the practice to prescibe antibiotics at the first sign of a trivial infectics or treatpatients with a handful of antibiotics.</p>
+		<br><br><br>
+
+		<h1>formal letters</h1>
+
+
+		<pre>
+						dear sir,
+							i would like to apply for the post of support executive that you have advertised in the hindu of 15 nov 2005.
+								
+													
+													regards,
+													yours truly,
+													(SIGNATURE)	
+		
+		</pre>
+
+
+
+
+
+
+
+
+
+
+</html>
